@@ -1,0 +1,135 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/next/
+/out/
+/dist/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# OS generated files
+Thumbs.db
+
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/next/
+/out/
+/dist/
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# Node modules
+node_modules
+
+# Next.js build directory
+.next
+
+# Environment variables file (if you're using .env files)
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and editor specific files
+.idea
+.vscode
+
+# macOS directory attributes
+.DS_Store
+
+# NPM debugging log
+npm-debug.log*
+
+# Yarn debugging log
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+Thumbs.db
+
+# Node modules
+node_modules
+
+# Next.js build directory
+.next
+
+# Dist folder
+dist
+
+# Environment variables file (if you're using .env files)
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and editor specific files
+.idea
+.vscode
+
+# macOS directory attributes
+.DS_Store
+
+# NPM debugging log
+npm-debug.log*
+
+# Yarn debugging log
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+Thumbs.db
